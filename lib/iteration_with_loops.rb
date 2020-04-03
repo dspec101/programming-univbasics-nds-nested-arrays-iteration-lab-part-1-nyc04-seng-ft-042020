@@ -9,9 +9,9 @@ while element_index < array[row_index].length
 if array[row_index][element_index].even?
 p array[row_index][element_index]
 end 
-row_index += 1
-end
 element_index += 1
+end
+row_index += 1
 end
 array
 end
