@@ -6,7 +6,7 @@ row_index = 0
 while row_index < array.count 
 element_index = 0 
 while element_index < array[row_index].count
-while array[row_index][element_index]/2 
+while array[row_index][element_index]
 
 
 
